@@ -1,0 +1,51 @@
+{
+	"pais": {
+		"monedas": {
+			"moneda": [
+				"Dolar estadounidense",
+				"Bitcoin"
+			]
+		},
+		"codigoArea": "+503",
+		"idiomas": {
+			"idioma": [
+				{
+					"_tipo": "oficial",
+					"__text": "Español"
+				},
+				{
+					"_tipo": "autóctono",
+					"__text": "Nahuat"
+				},
+				{
+					"_tipo": "segundo",
+					"__text": "Ingles"
+				}
+			]
+		},
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Tecla",
+				"habitantes": "907,665",
+				"altura": "30 MSNM",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "590,000",
+				"altura": "665 MSNM",
+				"_id": "3",
+				"_nombre": "Santa Ana"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}
