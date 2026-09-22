@@ -1,0 +1,6 @@
+/* carnet-ejemplo1.css   RA19027  */
+pais {background-color:blue;}
+departamento {background-color:rgb(255, 119, 0); display:block;} 
+cabecera {color:rgb(0, 0, 0);font-size: 18px; display:inline;}
+habitantes {color:rgb(0, 0, 0); font-size:18px; display:inline;}
+altura {color:rgb(0, 0, 0); font-size: 18px; display:inline;}
